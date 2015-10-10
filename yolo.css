@@ -1,0 +1,20 @@
+.header {
+	font-size: 64px;
+	color: red;
+	text-align: center;
+	font-family: Helvetica;
+	background-color: #ddc9d1;
+}
+
+.description {
+	font-size: 32px;
+	font-family: Helvetica;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footer {
+	font-size: 12px;
+	color: white;
+	background-color: #e5e5ff;
+}
